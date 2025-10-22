@@ -15,10 +15,10 @@ This project is designed to simplify employee data management, attendance tracki
 ![Register Page](images/Register.png)
 
 ### Employee Dashboard
-![Employee Dashboard](images/Employee Dashboard.png)
+![Employee Dashboard](images/Employee_Dashboard.png)
 
 ### Admin Dashboard
-![Admin Dashboard](images/Admin Dashboard.png)
+![Admin Dashboard](images/Admin_Dashboard.png)
 
 !
 
