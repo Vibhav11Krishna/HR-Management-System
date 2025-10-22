@@ -1,11 +1,11 @@
 
 # 💼 HR Management System
 
-# 💼 HR Management System
+
 
 [🌐 Live Demo](https://hr-management-dashboard.great-site.net)
 
-A complete HR Management web application built using **PHP, MySQL, HTML, CSS, and JavaScript**.
+
 
 
 A complete HR Management web application built using **PHP, MySQL, HTML, CSS, and JavaScript**.  
