@@ -7,8 +7,20 @@ This project is designed to simplify employee data management, attendance tracki
 ---
 
 ## 📸 Project Preview
-> *(You can upload a screenshot of your dashboard or homepage in your repo and replace the link below)*  
-![HR Management System Dashboard](assets/images/preview.png)
+
+### Login Page
+![Login Page](images/Login.png)
+
+### Register Page
+![Register Page](images/Register.png)
+
+### Employee Dashboard
+![Employee Dashboard](images/Employee Dashboard.png)
+
+### Admin Dashboard
+![Admin Dashboard](images/Admin Dashboard.png)
+
+!
 
 ---
 
