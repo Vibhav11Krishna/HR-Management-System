@@ -1,9 +1,9 @@
 
-# 💼 HR Management System
+#  HR Management System
 
 
 
-[🌐 Live Demo](https://hr-management-dashboard.great-site.net)
+[ Live Demo](https://hr-management-dashboard.great-site.net)
 
 
 
@@ -13,7 +13,7 @@ This project is designed to simplify employee data management, attendance tracki
 
 ---
 
-## 📸 Project Preview
+##  Project Preview
 
 ### Login Page
 ![Login Page](images/Login.png)
@@ -31,19 +31,19 @@ This project is designed to simplify employee data management, attendance tracki
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔐 **Role-based Login System** — Separate dashboards for Admin and Employees  
-- 👥 **Employee Management** — Add, Edit, Delete employee records  
-- 💰 **Salary Management** — Generate and manage employee salary reports  
-- 🕒 **Attendance Tracking** — Monitor employee attendance  
-- 📊 **Admin Dashboard** — Overview of all HR operations  
-- 🖥️ **Responsive Design** — Works smoothly across devices  
-- 🗄️ **MySQL Database Integration** — Secure data storage and retrieval  
+-  **Role-based Login System** — Separate dashboards for Admin and Employees  
+-  **Employee Management** — Add, Edit, Delete employee records  
+-  **Salary Management** — Generate and manage employee salary reports  
+-  **Attendance Tracking** — Monitor employee attendance  
+-  **Admin Dashboard** — Overview of all HR operations  
+-  **Responsive Design** — Works smoothly across devices  
+-  **MySQL Database Integration** — Secure data storage and retrieval  
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 | Category | Technologies Used |
 |-----------|-------------------|
@@ -54,7 +54,7 @@ This project is designed to simplify employee data management, attendance tracki
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 ├── admin/ # Admin dashboard files
 ├── employee/ # Employee dashboard files
 ├── auth/ # Login and registration pages
