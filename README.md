@@ -1,5 +1,5 @@
 
-#  HR Management System
+#  HR Management System (Admin & Employee)
 
 
 
