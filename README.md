@@ -54,13 +54,5 @@ This project is designed to simplify employee data management, attendance tracki
 
 ---
 
-##  Folder Structure
-├── admin/ # Admin dashboard files
-├── employee/ # Employee dashboard files
-├── auth/ # Login and registration pages
-├── assets/ # CSS, JS, and image files
-├── db/ # Database connection and SQL file
-├── index.php # Homepage
-├── README.md # Project documentation
-└── hr_management.sql # Database structure
+
 
